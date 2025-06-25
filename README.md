@@ -5,4 +5,4 @@ This is a repackaged version of Analog Devices' [CN0391 example](https://github.
 
 ![image](cn0391.jpg)
 
-Moreover, the example `read_temps.ino` was written by an __unknown author__. It is the basis for the included `basicCN0391` class included in the library. Credit goes to this person/group. 
+Moreover, the example `read_temps.ino` was written by an __unknown author__. It is the basis for the `basicCN0391` header file included in the library. Credit goes to this person/group. 
