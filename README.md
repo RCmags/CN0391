@@ -1,5 +1,5 @@
 # CN0391 Thermocouple Library
-This is a repackaged version of Analog Devices' [CN0391 example](https://github.com/analogdevicesinc/arduino/tree/master/Arduino Uno R3/examples/CN0391_example) into a standard Arduino library.  For more details on the shield and the library itself, see the following article:
+This is a repackaged version of Analog Devices' [CN0391 example](https://github.com/analogdevicesinc/arduino/tree/master/Arduino%20Uno%20R3/examples/CN0391_example) into a standard Arduino library.  For more details on the shield and the library itself, see the following article:
 
 - [4-Channel Thermocouple Demo using the Arduino Uno](https://wiki.analog.com/resources/eval/user-guides/arduino-uno/reference_designs/demo_cn0391)
 
